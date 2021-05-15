@@ -4,6 +4,3 @@ def numbr():
     num = list(n)
     for i in n:
         print(i)
-
-
-numbr()
