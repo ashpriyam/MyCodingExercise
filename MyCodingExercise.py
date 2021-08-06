@@ -1,9 +1,8 @@
-def numbr():
+def number():
     print("Input any numbers:")
     n = input()
-    num = list(n)
     for i in n:
         print(i)
 
 
-numbr()
+number()
